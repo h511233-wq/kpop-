@@ -1,0 +1,8 @@
+{
+  "name": "Remix K-Pop Record Store Expense \u0026 Inventory Hub",
+  "description": "Comprehensive expense, inventory, and procurement tracker for K-Pop album and merchandise stores, covering lightsticks, photocards, physical and platform albums, and idol plushies for groups like BLACKPINK, BABYMONSTER, ATEEZ, and more.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
